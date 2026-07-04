@@ -154,23 +154,6 @@ nodemon app.js
 
 ---
 
-## 📸 Screenshots
-
-> Add screenshots of your project here.
-
-### Home Page
-
-"D:\Screenshots\Screenshot 2026-07-04 145601.png"
-
-### Listing Page
-
-"D:\Screenshots\Screenshot 2026-07-04 145924.png"
-
-### Add Listing
-
-"D:\Screenshots\Screenshot 2026-07-04 145748.png"
-
----
 
 ## 🔐 Authentication
 
