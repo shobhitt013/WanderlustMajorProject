@@ -195,6 +195,8 @@ COER University, Roorkee
 
 GitHub: https://github.com/shobhitt013
 
+Live Demo: https://wanderlustmajorproject-cyk7.onrender.com
+
 ---
 
 ## ⭐ Support
