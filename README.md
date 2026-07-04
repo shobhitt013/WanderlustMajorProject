@@ -154,18 +154,6 @@ nodemon app.js
 
 ---
 
-<h2>🏠 Home Page</h2>
-
-<img src=""D:\Screenshots\Screenshot 2026-07-04 145601.png"" width="900">
-
-<h2>🔍 Search</h2>
-
-<img src="assets/search.png" width="900">
-
-<h2>📍 Listing Page</h2>
-
-<img src="assets/listing.png" width="900">
----
 
 ## 🔐 Authentication
 
